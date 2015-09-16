@@ -1,6 +1,6 @@
 ---
 name: chatops.repos
-action_ref: st2-chatops-aliases.repos
+action_ref: st2-pack-template.repos
 description: Split pull request url
 formats:
   - "repos {{urls}}"
